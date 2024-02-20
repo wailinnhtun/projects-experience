@@ -1,11 +1,29 @@
 # Projects experience
 
+  ## Ninjavan Shipper Application
+  - Description
+    * Delivery application for ninjavan myanmar
+  - Technologies Used :
+    * Spring Boot
+    * JDK - 17
+    * Spring Data JPA
+    * PostgreSql
+    * Firebase
+    * AWS: S3
+    * Redis
+     
+   
   ## Restaurant
   - Description
     * Online ordering system for restaurant application
 
   - Technologies Used :
-    * hh
+    * Spring Boot
+    * JDK - 8
+    * Mybatis
+    * MySQL
+    * Redis
+      
   ## Yoga
   - Description
     * Yoga streaming application
